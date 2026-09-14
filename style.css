@@ -1,8 +1,11 @@
+body{
+        max-width: 100vw;
+}
+
 header {
         background-color:#e1d1c6
           color: #795138;
         text-aling:center;
-        max-width: 800px;
         margin:  0 auto;
         border: 5px solid #FFE7BA;
         padding: 16px
@@ -12,11 +15,16 @@ header {
             background-color:#FFDAB9;
               color:#FFEFDB;
             text-align:center;
-            max-width:800px;
             margin:0 auto;
+           padding: 16px;
+          display: flex;
           }
       article{
         display: flex;
+                border: 1px solid #FFE7BA;
+              margin:  16px;
+              gap: 16px;
+             padding: 16px;
       }
       img { 
         width: 80px;
