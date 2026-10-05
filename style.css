@@ -43,7 +43,7 @@ color:#614051;
         bottom: 16px;
         right: 16px;
         font-size: 32px;
-        background-color: var(--cor-primmaria);
+        background-color: var(--cor-primaria);
         border-radius: 50%;
 }
 .tema-escuro .btn-tema-escuro{
